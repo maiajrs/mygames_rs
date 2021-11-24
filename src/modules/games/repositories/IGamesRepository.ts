@@ -1,3 +1,4 @@
+import { EntityNotFoundError } from 'typeorm';
 import { User } from '../../users/entities/User';
 import { Game } from '../entities/Game';
 
